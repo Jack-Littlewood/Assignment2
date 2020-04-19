@@ -1,3 +1,5 @@
+package Class;
+
 public class Customer {
     private Integer numberOfCustomers;
     private Integer tableNumber;

@@ -1,3 +1,5 @@
+package Class;
+
 public class Table {
     private Integer tableNumber;
 
