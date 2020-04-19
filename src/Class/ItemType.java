@@ -1,3 +1,3 @@
 package Class;
 
-enum ItemType {STARTER, MAIN, DESSERT}
+public enum ItemType {STARTER, MAIN, DESSERT}

@@ -1,6 +1,6 @@
 package DomainClasses;
-import Food;
-import ItemType;
+import Class.Food;
+import Class.ItemType;
 import javafx.collections.ObservableList;
 import javafx.collections.FXCollections;
 
@@ -15,4 +15,3 @@ public class FoodDomain {
 
 
 }
-
