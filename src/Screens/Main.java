@@ -1,4 +1,4 @@
-package sample;
+package Screens;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -11,7 +11,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("Menu.fxml"));
-        primaryStage.setTitle("Epic Meal Time");
+        primaryStage.setTitle("Restaurant Menu");
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
     }
