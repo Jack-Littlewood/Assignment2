@@ -5,4 +5,10 @@ import javafx.collections.FXCollections;
 
 public class CustomerDomain {
 
+    private ObservableList<Customer>customer;
+
+    public CustomerDomain() {
+
+    }
+
 }
